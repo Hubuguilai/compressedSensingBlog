@@ -1,5 +1,7 @@
 ## Intuitive Understanding of Compressed Sensing
 
+[Chinese version](https://www.cnblogs.com/hubuguilai/p/18924504)
+
 Compressed sensing (also known as compressive sampling or sparse sampling) is a technique for finding sparse solutions to underdetermined linear systems. It's widely applied in electrical engineering and signal processing to acquire and reconstruct sparse or compressible signals. Leveraging the sparsity property of a signal, compressed sensing enables signal recovery from significantly fewer measurements than what the Nyquist-Shannon sampling theorem traditionally requires.
 
 This blog offers a simple and intuitive understanding of compressed sensing, avoiding heavy mathematical formulations.
